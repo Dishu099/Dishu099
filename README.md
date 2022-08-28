@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishu099&label=Profile%20views&color=0e75b6&style=flat" alt="dishu099" /> </p>
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **Data Structure**
 
 - 📫 How to reach me **idu3jainbina@gmail.com**
 
