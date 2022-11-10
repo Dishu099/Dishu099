@@ -1,5 +1,5 @@
 ![logo](https://github.com/Dishu099/Dishu099/blob/main/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
-[![@dishu099's Holopin board](https://holopin.me/dishu099)](https://holopin.io/@dishu099)
+![logo](https://github.com/Dishu099/Dishu099/blob/main/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Dishita Jain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
