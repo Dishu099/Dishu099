@@ -1,5 +1,5 @@
 ![logo](https://github.com/Dishu099/Dishu099/blob/main/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
-
+![logo](https://github.com/Dishu099/Dishu099/blob/main/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Dishita Jain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -26,5 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishu099&show_icons=true&locale=en&layout=compact" alt="dishu099" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishu099&show_icons=true&locale=en" alt="dishu099" /></p>
-![logo](https://github.com/Dishu099/Dishu099/blob/main/github-contribution-grid-snake.gif)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishu099&" alt="dishu099" /></p>
